@@ -4,7 +4,6 @@
 ```
 yarn install
 ```
-![PROENADEFinal](https://user-images.githubusercontent.com/71279207/146473066-f531d273-561b-42a3-89b0-19f9aac2648b.jpg)
 
 ### Compiles and hot-reloads for development
 ```
